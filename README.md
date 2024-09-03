@@ -63,8 +63,8 @@ You can select from a range of audiences or a single auidience. Examples:
 
 <!-- name of the two professors overseeing your TAP class -->
 
-- Dr. John Doe
-- Dr. Jane Doe
+- Dr. Cengiz Gunay
+- Dr. Cindy Robertson
 
 ## :page_with_curl: Project Description
 
