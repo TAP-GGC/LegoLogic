@@ -90,7 +90,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Lego Spike Prime Logo" src = "media/technology/legoSpikePrimeLogo.jpg" width="200" height="200"/>
+  <img alt="Lego Spike Prime Logo" src = "media/logos/legoSpikePrimeLogo.jpg" width="200" height="200"/>
 </p>
 
 - [LEGO SPIKE]([https://scratch.mit.edu/](https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/?ef_id=ZNfR2gAIF3e9GwAb%3A20240903192900%3As&mtm_campaign=BI-US-EN-BR-PS-BUY-EDUCATION-SPIKE_PRIME_ESSENTIAL-SHOP-BP-PH-RN-XX&mtm_cid=MTM-M3M7-C8M7P7&mtm_content=General&mtm_kwd=lego+spike&mtm_medium=paid-search&mtm_source=bing&s_kwcid=AL%21790%2110%21%2181158025851687#spike%E2%84%A2-essential)) Prime sets are educational robotics kits designed to teach students coding and engineering concepts through hands-on, interactive projects. They combine programmable motors and sensors with LEGO building elements to help learners develop problem-solving and computational thinking skills in a fun and engaging way.
