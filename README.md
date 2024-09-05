@@ -70,9 +70,30 @@ Commercial-style 30 second video: To be filled later
 - Dr. Cengiz Gunay
 - Dr. Cindy Robertson
 
-## :page_with_curl: Project Description
+## 📄 Project Description
 
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
+This project, designed for the **Technology Ambassadors Program (TAP)**, uses **LEGO SPIKE Prime** sets to create an interactive and educational workshop experience that introduces participants to fundamental coding concepts. 
+
+### 🚀 Project Overview
+
+The workshop revolves around building and programming a **catapult on wheels** that can hit **color-coded targets**, simulating a carnival game. This hands-on project helps participants grasp the basics of programming through a fun and engaging activity.
+
+### 🧩 Sections of the Workshop
+
+1. **Introduction to LEGO SPIKE Prime and Coding Basics**  
+   The session begins with an introduction to the **LEGO SPIKE Prime** robotics kit, where participants learn about the different components such as motors, sensors, and building elements. The basics of the **SPIKE software** and its block-based coding interface will also be covered, providing participants with the foundational knowledge to get started.
+
+2. **Building the Catapult on Wheels**  
+   Participants will be guided step-by-step to construct a catapult using the LEGO SPIKE Prime set. During this section, they will learn how to assemble the components, such as motors for movement and sensors for detecting color-coded targets. This process will teach essential engineering skills like following instructions, troubleshooting mechanical issues, and understanding how different components work together.
+
+3. **Programming the Catapult**  
+   After constructing the catapult, participants will use the **LEGO SPIKE software** to program their creation. They will learn to use coding blocks to control the movement of the catapult, detect targets with color sensors, and launch the projectile at the correct moment. This segment introduces coding concepts such as **variables, conditionals,** and **loops** through hands-on practice, reinforcing the logic and structure behind each concept.
+
+4. **Interactive Carnival Game Simulation**  
+   With the catapults built and programmed, participants will test their creations by attempting to hit color-coded targets. This interactive game allows students to see their code in action, providing immediate feedback and opportunities for iteration. They will learn to adjust their code to improve accuracy, demonstrating the importance of debugging and refining programs.
+
+5. **Reflection and Knowledge Sharing**  
+   At the end of the workshop, participants will have the chance to share their experiences, discuss the challenges they faced, and reflect on the skills they learned. This section encourages critical thinking and communication skills while reinforcing the coding and engineering concepts covered in the session.
 
 ## :memo: Publications
 
