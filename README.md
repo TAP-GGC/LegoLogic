@@ -72,9 +72,7 @@ Commercial-style 30 second video: To be filled later
 
 ## 📄 Project Description
 
-This project, designed for the **Technology Ambassadors Program (TAP)**, uses **LEGO SPIKE Prime** sets to create an interactive and educational workshop experience that introduces participants to fundamental coding concepts. 
-
-### 🚀 Project Overview
+### 🚀 Overview
 
 The workshop revolves around building and programming a **catapult on wheels** that can hit **color-coded targets**, simulating a carnival game. This hands-on project helps participants grasp the basics of programming through a fun and engaging activity.
 
