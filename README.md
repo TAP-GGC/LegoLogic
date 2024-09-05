@@ -17,13 +17,13 @@ Check out a demo of our project in action here: (To be added later)
 ## :bulb: Project Information
 
 ### 🔰 Difficulty Level
-**Beginner**
+- **Beginner**
 
 ### 🎯 Target Audience
-**6th Grade - College**
+- **6th Grade - College**
 
 ### ⏳ Duration of Workshop
-**60-90 minutes**
+- **60-90 minutes**
 
 ### 📋 Needed Materials
 - Computers with keyboards  
@@ -35,11 +35,11 @@ The primary goal of this project is to teach students the essential concepts of 
 
 ### 🔧 Technologies
 
-#### LEGO SPIKE Prime
+- #### LEGO SPIKE Prime
 **LEGO SPIKE Prime** sets are educational robotics kits that help teach students coding and engineering concepts. They combine programmable motors, sensors, and LEGO building elements to create interactive projects that develop problem-solving and computational thinking skills.  
 [Learn more](https://education.lego.com/en-us/products/lego-education-spike-prime)
 
-#### LEGO SPIKE Software
+- #### LEGO SPIKE Software
 The **LEGO SPIKE software** is a coding platform designed specifically for the SPIKE Prime sets. It uses a block-based coding interface that is intuitive for beginners, allowing them to program their robots. The software integrates with the SPIKE Prime hardware to enable hands-on learning of coding concepts like **loops, conditionals,** and **variables**.  
 [Learn more](https://spike.legoeducation.com)
 
