@@ -4,49 +4,44 @@
 <p align="center">
   <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/main/media/logo/Transparent%20Version.png" width="" height="350" />
   <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
-  <p align="center">A project for ... by team ... </p>
+  <p align="center">A project for ... by team LegoLogic </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
 
-The objective of the workshop is ...
+This project utilizes LEGO SPIKE sets to create an interactive, educational experience aimed at teaching basic coding concepts through a hands-on workshop. Participants build and program a catapult on wheels to hit color-coded targets, simulating a carnival game. This engaging approach helps learners understand fundamental coding concepts such as variables, conditionals, and loops. The primary target audience for this workshop is students with little to no programming knowledge or experience, providing them with an introduction to coding and robotics in a fun, interactive way.
+Check out a demo of our project in action here: (To be added later)
 
-<!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
-
-This workshop has participants do ...
 
 ## :bulb: Project Information
 
-<!--
-Your Options for target audience:
-  - High School
-  - College
-  - Middle School
-  - K-12
-  - Non-Stem
-  - Undergraduate
-You can select from a range of audiences or a single auidience. Examples:
-    Middle School - College
-    High School - College
-    K-12
-  You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range.
--->
+Difficulty Level: Beginner
 
-- <b>Difficulty Level:</b> Choose your workshop difficulty (Beginner/Intermediate/Advanced)
-- <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
-- <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.)
-- <b>Needed Materials:</b> Materials needed to do your workshop (computer with keyboard, sphero, etc.)
-- <b>Learning Outcomes:</b> The primary goal of this project is to teach participants ...
-- <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section.
-- [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
-<!-- Commercial Video stored in the Media folder will be linked here -->
+Target Audience: 6th Grade - College
 
-[Commercial Video](https://github.com/TAP-GGC/NinjaTurtles/assets/157164928/94b037a6-8912-44da-8a8c-84c0b8a0afb8)
+Duration of Workshop: 60-90 minutes
+
+Needed Materials: Computers with keyboards, Access to spike.legoeducation.com, At least one Lego Spike Prime set.
+
+Learning Outcomes: The primary goal of this project is to teach students the essential concepts of variables, conditionals, and loops in computer coding, primarily using Lego Spike robotics and block coding.
+
+Technologies: 
+LEGO SPIKE Prime
+LEGO SPIKE Prime sets are educational robotics kits that help teach students coding and engineering concepts. They combine programmable motors, sensors, and LEGO building elements to create interactive projects that develop problem-solving and computational thinking skills.
+Learn more (add link)
+
+LEGO SPIKE Software
+The LEGO SPIKE software is a coding platform designed specifically for the SPIKE Prime sets. It uses a block-based coding interface that is intuitive for beginners, allowing them to program their robots. The software integrates with the SPIKE Prime hardware to enable hands-on learning of coding concepts like loops, conditionals, and variables. 
+Learn more (add link)
+
+TAP: This project is part of the TAP (Technology Ambassadors Program) initiative, which aims to promote technology education and awareness. For more information on the TAP program, visit the [GGC TAP website](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program).
+
+Commercial-style 30 second video: To be filled later
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
-## :pencil2: Team: Team Name
+## :pencil2: Team: LegoLogic
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
@@ -74,11 +69,11 @@ A more thorough description of your project. Not a full walkthrough, but describ
 
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
 
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.
+To be filled Later
 
 ## :open_hands: Outreach
 
-<i>List the outreach events your team has participated in. </i>
+To be filled later
 
 Example:
 
@@ -93,16 +88,12 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 
 ## :computer: Technology
 
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
-
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img alt="Lego Spike Prime Logo" src = "media/technology/legoSpikePrimeLogo.jpg" width="200" height="200"/>
 </p>
 
-- [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-- Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-- Explain why your team chose this technology for this workshop.
+- [LEGO SPIKE]([https://scratch.mit.edu/](https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/?ef_id=ZNfR2gAIF3e9GwAb%3A20240903192900%3As&mtm_campaign=BI-US-EN-BR-PS-BUY-EDUCATION-SPIKE_PRIME_ESSENTIAL-SHOP-BP-PH-RN-XX&mtm_cid=MTM-M3M7-C8M7P7&mtm_content=General&mtm_kwd=lego+spike&mtm_medium=paid-search&mtm_source=bing&s_kwcid=AL%21790%2110%21%2181158025851687#spike%E2%84%A2-essential)) Prime sets are educational robotics kits designed to teach students coding and engineering concepts through hands-on, interactive projects. They combine programmable motors and sensors with LEGO building elements to help learners develop problem-solving and computational thinking skills in a fun and engaging way.
 
 <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
