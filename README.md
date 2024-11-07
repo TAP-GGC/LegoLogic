@@ -2,7 +2,7 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="https://github.com/jvalram/project-template/blob/main/media/logo/Transparent%20Version.png" width="" height="350" />
+  <img alt="Template Logo" src="https://github.com/TAP-GGC/LegoLogic/blob/main/media/logos/LegoLogic.png" width="" height="350" />
   <h1 align="center">Using Lego Spike Prime Sets to Teach Essential Coding Concepts</h1>
   <p align="center">by team LegoLogic </p>
 </p>
