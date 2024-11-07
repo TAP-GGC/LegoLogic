@@ -1,5 +1,5 @@
-If you used an asset pack or any other kind of external resource, upload them here. 
+# 🏹 Catapult Tutorial
 
-If you use an asset pack or something like it, make sure you've read the copyright and if possible, create a .md file describing how you downloaded it, the license (If your asset pack/resource is Creative Commons (CC), you'll want to specify the license) and a brief description. 
+[![Watch the video](https://img.youtube.com/vi/GWoH7GtGccU/0.jpg)](https://www.youtube.com/watch?v=GWoH7GtGccU)
 
-Most projects won't need to do this, but if yours does you can check out how the [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles/blob/main/Resources/Asset%20Package.md) team did theirs.
+Click the image above to watch the tutorial video!
