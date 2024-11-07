@@ -53,7 +53,7 @@ Commercial-style 30 second video: To be filled later
 ## :pencil2: Team: LegoLogic
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-<img alt="art featuring batman, wonder woman, and superman" src = "![image](https://github.com/user-attachments/assets/8a57cf35-75e7-4a8e-b3e4-6ce270c7965b)" width="" height="300">
+<img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
 
 > (From left to right: Batman, Wonder Woman, Superman.)
 
