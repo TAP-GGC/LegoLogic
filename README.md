@@ -100,7 +100,10 @@ The workshop revolves around building and programming a **catapult on wheels** t
 
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
 
-To be filled Later
+[CCSC:SE Abstract](documents/publications/TAP%20Abstract%20LegoLogic%20Final%20(1).docx)
+
+[TAP Poster](documents/publications/Tap%20poster.pdf)
+
 
 ## :open_hands: Outreach
 
