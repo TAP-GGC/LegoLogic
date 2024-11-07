@@ -126,7 +126,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 <img src = "media/technology/block-based language.png" width ="400" height="200">
 </p>
 
-## Project Setup/Installation
+## Project Setup
 
 <i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
 
