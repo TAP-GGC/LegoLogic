@@ -128,7 +128,7 @@ Your repo doesn't have to have every section used below. This is just an example
 
 ### Opening a blank project with Lego Spike Education
 
-[Click here to view instructions](/documents/tutorial-materials)
+[Click here to view instructions](/documents/tutorial%20materials/Setting%20up%20a%20new%20project%20in%20Lego%20Spike%20Education.docx)
 
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
