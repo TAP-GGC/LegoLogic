@@ -107,12 +107,6 @@ To be filled Later
 1. <b>TAP Expo</b>, October 8, 2024, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Class Workshops</b>, October 21-24, 2024, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
-## :mag_right: Similar Projects
-
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i>
-
-If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
-
 ## :computer: Technology
 
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
@@ -132,7 +126,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 
 Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
 
-### Opening a blank Scratch page
+### Opening a blank project with Lego Spike Education
 
 [Click here to view instructions](/Documents/tutorial/Opening%20a%20blank%20Scratch%20page.md)
 
