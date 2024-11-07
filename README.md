@@ -132,26 +132,12 @@ Your repo doesn't have to have every section used below. This is just an example
 
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
-<!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-
-## CS First Installation Walkthrough
-
-[Click here to view instructions](/Documents/tutorial/CS%20FIRST/CS%20First%20Walkthrough.md)
-
-### Getting to the game
-
-[Click here to view instructions](/Documents/tutorial/Getting%20to%20the%20Game.md)
 
 ## Usage
 
 <i> Describe HOW to use your game. </i>
-Example:
 
-1. Press the Left arrow key to move to the left.
-2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey.
+
 
 ## Short Demo Instructions
 
