@@ -78,20 +78,23 @@ The workshop revolves around building and programming a **catapult on wheels** t
 
 ### 🧩 Sections of the Workshop
 
-1. **Introduction to LEGO SPIKE Prime and Coding Basics**  
-   The session begins with an introduction to the **LEGO SPIKE Prime** robotics kit, where participants learn about the different components such as motors, sensors, and building elements. The basics of the **SPIKE software** and its block-based coding interface will also be covered, providing participants with the foundational knowledge to get started.
+1. Introduction to LEGO SPIKE Prime and Coding Basics
+   The session starts with an introduction to LEGO SPIKE Prime robotics, covering components like motors, sensors, and basic elements. Participants are introduced to the SPIKE software and its block-based     
+   coding interface to set a foundation for the activities.
 
-2. **Building the Catapult on Wheels**  
-   Participants will be guided step-by-step to construct a catapult using the LEGO SPIKE Prime set. During this section, they will learn how to assemble the components, such as motors for movement and sensors for detecting color-coded targets. This process will teach essential engineering skills like following instructions, troubleshooting mechanical issues, and understanding how different components work together.
+2. Programming the Catapult (Pre-Built)
+   Participants jump into coding by using the central hub as a controller, learning variables and loops through hands-on practice. They then test their code with the catapult.
 
-3. **Programming the Catapult**  
-   After constructing the catapult, participants will use the **LEGO SPIKE software** to program their creation. They will learn to use coding blocks to control the movement of the catapult, detect targets with color sensors, and launch the projectile at the correct moment. This segment introduces coding concepts such as **variables, conditionals,** and **loops** through hands-on practice, reinforcing the logic and structure behind each concept.
+3. Programming the Button (Conditional Logic)
+   In the next stage, participants code a button to trigger the catapult, introducing conditionals. After programming, they test the code to experience how the button functions.
 
-4. **Interactive Carnival Game Simulation**  
-   With the catapults built and programmed, participants will test their creations by attempting to hit color-coded targets. This interactive game allows students to see their code in action, providing immediate feedback and opportunities for iteration. They will learn to adjust their code to improve accuracy, demonstrating the importance of debugging and refining programs.
+4. Adding a Color Sensor (Conditional with If Statements)
+   In the final coding segment, participants replace the button with a color sensor. They program the catapult to launch at different angles based on the sensor’s detected color, providing another example of   
+   conditionals and if statements.
 
-5. **Reflection and Knowledge Sharing**  
-   At the end of the workshop, participants will have the chance to share their experiences, discuss the challenges they faced, and reflect on the skills they learned. This section encourages critical thinking and communication skills while reinforcing the coding and engineering concepts covered in the session.
+5. Interactive Target Practice and Reflection
+   After testing, participants bring their catapults to the front to hit targets and play for a few minutes. The session concludes with a reflection, where participants share insights, discuss challenges, and   
+   reinforce their learning on variables, loops, and conditionals.
 
 ## :memo: Publications
 
@@ -101,12 +104,8 @@ To be filled Later
 
 ## :open_hands: Outreach
 
-To be filled later
-
-Example:
-
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
+1. <b>TAP Expo</b>, October 8, 2024, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Class Workshops</b>, October 21-24, 2024, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
 
