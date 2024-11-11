@@ -46,7 +46,11 @@ The **LEGO SPIKE software** is a coding platform designed specifically for the S
 ### 🌐 TAP
 This project is part of the TAP (Technology Ambassadors Program) initiative, which aims to promote technology education and awareness. For more information on the TAP program, visit the [GGC TAP website](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program).
 
-Commercial-style 30 second video: To be filled later
+### 📺 Commercial Video
+Click the image below to watch a 1-minute commercial for the project
+
+Click the image below to watch a 30 second commercial for the project <br> <br>
+[<img src= "https://github.com/TAP-GGC/LegoLogic/blob/main/media/logos/LegoLogicVideo.png" width="400" height="200">](https://github.com/TAP-GGC/LegoLogic/blob/main/media/videos/CommercialVideoLegoLogic.mp4) 
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
