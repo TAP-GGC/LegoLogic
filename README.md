@@ -152,6 +152,9 @@ Your repo doesn't have to have every section used below. This is just an example
 
 ## Workshop Instructions
 
+### Workshop Video:
+[<img src= "https://github.com/TAP-GGC/LegoLogic/blob/main/media/logos/LegoLogicVideo.png" width="400" height="200">]((https://www.canva.com/design/DAGWND4B6yw/xskUaLiRxpejCLHA0AT1ug/watch?utm_content=DAGWND4B6yw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 [Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
