@@ -50,7 +50,7 @@ This project is part of the TAP (Technology Ambassadors Program) initiative, whi
 Click the image below to watch a 1-minute commercial for the project
 
 Click the image below to watch a 30 second commercial for the project <br> <br>
-[<img src= "https://github.com/TAP-GGC/LegoLogic/blob/main/media/logos/LegoLogicVideo.png" width="400" height="200">](https://www.canva.com/design/DAGS8XlcStU/SLvefd_ulE6xk4WZFtACyg/watch?utm_content=DAGS8XlcStU&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
+[<img src= "https://github.com/TAP-GGC/LegoLogic/blob/main/media/logos/LegoLogicVideo.png" width="400" height="200">](https://youtu.be/ByucnVkoWNE) 
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
