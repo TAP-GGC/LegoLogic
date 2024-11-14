@@ -135,7 +135,7 @@ Your repo doesn't have to have every section used below. This is just an example
 
 ### Step by step instructions to build the catapult
 
-[Click here to view instructions](file:///C:/Users/peype/Downloads/Catapult%20Instructions.pdf)
+[Click here to view instructions](documents/tutorial%20materials/Catapult%20Instructions%20(8).pdf)
 
 ### Opening a blank project with Lego Spike Education
 
