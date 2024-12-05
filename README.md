@@ -11,7 +11,6 @@
 ## :loudspeaker: About
 
 This project utilizes LEGO SPIKE sets to create an interactive, educational experience aimed at teaching basic coding concepts through a hands-on workshop. Participants build and program a catapult on wheels to hit color-coded targets, simulating a carnival game. This engaging approach helps learners understand fundamental coding concepts such as variables, conditionals, and loops. The primary target audience for this workshop is students with little to no programming knowledge or experience, providing them with an introduction to coding and robotics in a fun, interactive way.
-Check out a demo of our project in action here: (To be added later)
 
 
 ## :bulb: Project Information
@@ -27,21 +26,17 @@ Check out a demo of our project in action here: (To be added later)
 
 ### 📋 Needed Materials
 - Computers with keyboards  
-- Access to [spike.legoeducation.com](https://spike.legoeducation.com)  
+- Access to spike.legoeducation.com 
 - At least one LEGO Spike Prime set  
 
 ### 🎓 Learning Outcomes
 The primary goal of this project is to teach students the essential concepts of **variables, conditionals,** and **loops** in computer coding, primarily using **LEGO Spike robotics** and **block coding**.
 
-### 🔧 Technologies
+### 🔧 Technologies Used
 
 - #### LEGO SPIKE Prime
-**LEGO SPIKE Prime** sets are educational robotics kits that help teach students coding and engineering concepts. They combine programmable motors, sensors, and LEGO building elements to create interactive projects that develop problem-solving and computational thinking skills.  
-[Learn more](https://education.lego.com/en-us/products/lego-education-spike-prime)
 
 - #### LEGO SPIKE Software
-The **LEGO SPIKE software** is a coding platform designed specifically for the SPIKE Prime sets. It uses a block-based coding interface that is intuitive for beginners, allowing them to program their robots. The software integrates with the SPIKE Prime hardware to enable hands-on learning of coding concepts like **loops, conditionals,** and **variables**.  
-[Learn more](https://spike.legoeducation.com)
 
 ### 🌐 TAP
 This project is part of the TAP (Technology Ambassadors Program) initiative, which aims to promote technology education and awareness. For more information on the TAP program, visit the [GGC TAP website](https://www.ggc.edu/academics/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program).
@@ -49,7 +44,6 @@ This project is part of the TAP (Technology Ambassadors Program) initiative, whi
 ### 📺 Commercial Video
 Click the image below to watch a 1-minute commercial for the project
 
-Click the image below to watch a 30 second commercial for the project <br> <br>
 [<img src= "https://github.com/TAP-GGC/LegoLogic/blob/main/media/logos/LegoLogicVideo.png" width="400" height="200">](https://www.canva.com/design/DAGS8XlcStU/SLvefd_ulE6xk4WZFtACyg/watch?utm_content=DAGS8XlcStU&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
@@ -121,17 +115,19 @@ The workshop revolves around building and programming a **catapult on wheels** t
   <img alt="Lego Spike Prime Logo" src = "media/logos/legoSpikePrimeLogo.jpg" width="200" height="200"/>
 </p>
 
-- [LEGO SPIKE]([https://scratch.mit.edu/](https://education.lego.com/en-us/products/lego-education-spike-essential-set/45345/?ef_id=ZNfR2gAIF3e9GwAb%3A20240903192900%3As&mtm_campaign=BI-US-EN-BR-PS-BUY-EDUCATION-SPIKE_PRIME_ESSENTIAL-SHOP-BP-PH-RN-XX&mtm_cid=MTM-M3M7-C8M7P7&mtm_content=General&mtm_kwd=lego+spike&mtm_medium=paid-search&mtm_source=bing&s_kwcid=AL%21790%2110%21%2181158025851687#spike%E2%84%A2-essential)) Prime sets are educational robotics kits designed to teach students coding and engineering concepts through hands-on, interactive projects. They combine programmable motors and sensors with LEGO building elements to help learners develop problem-solving and computational thinking skills in a fun and engaging way.
+- #### LEGO SPIKE Prime
+**LEGO SPIKE Prime** sets are educational robotics kits that help teach students coding and engineering concepts. They combine programmable motors, sensors, and LEGO building elements to create interactive projects that develop problem-solving and computational thinking skills.  
+[Learn more](https://education.lego.com/en-us/products/lego-education-spike-prime)
 
 <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
 </p>
 
+- #### LEGO SPIKE Software
+The **LEGO SPIKE software** is a coding platform designed specifically for the SPIKE Prime sets. It uses a block-based coding interface that is intuitive for beginners, allowing them to program their robots. The software integrates with the SPIKE Prime hardware to enable hands-on learning of coding concepts like **loops, conditionals,** and **variables**.  
+[Learn more](https://spike.legoeducation.com)
+
 ## Project Setup
-
-<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
-
-Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
 
 ### Step by step instructions to build the catapult
 
@@ -141,16 +137,9 @@ Your repo doesn't have to have every section used below. This is just an example
 
 [Click here to view instructions](/documents/tutorial%20materials/Setting%20up%20a%20new%20project%20in%20Lego%20Spike%20Education.docx)
 
-
-
-
-## Usage
-
-<i> Describe HOW to use your game. </i>
-
-
-
 ## Short Demo Instructions
+
+ADDD VIDEOOOO
 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
 
@@ -162,6 +151,3 @@ Your repo doesn't have to have every section used below. This is just an example
 ### Lego Spike Tutorial:
 [<img src= "https://github.com/TAP-GGC/LegoLogic/blob/main/media/logos/LegoLogicVideo.png" width="400" height="200">](https://www.canva.com/design/DAGW9Od9HVs/JEzSN_ugN2PRT_NnHW8Gbw/watch?utm_content=DAGW9Od9HVs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-[Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
-
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
