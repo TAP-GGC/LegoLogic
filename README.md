@@ -137,12 +137,6 @@ The **LEGO SPIKE software** is a coding platform designed specifically for the S
 
 [Click here to view instructions](/documents/tutorial%20materials/Setting%20up%20a%20new%20project%20in%20Lego%20Spike%20Education.docx)
 
-## Short Demo Instructions
-
-ADDD VIDEOOOO
-
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
-
 ## Workshop Instructions
 
 ### Workshop Video:
